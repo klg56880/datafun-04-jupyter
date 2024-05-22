@@ -88,3 +88,5 @@ git push origin main
 
 ```
 
+## Created Jupyter Notebook according to the following specifications:
+[datafun-04-spec](https://github.com/denisecase/datafun-04-spec?tab=readme-ov-file)
